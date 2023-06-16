@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jMoSuiijUDAq1F4bTKOJ5tnezkw8oLuo2X5IWEExU72nIyEnWC5llhDkaYYbhuiR07Zp7gG3Da0URWTP+a28wQ==",
+  "success": true,
+  "projectFilePath": "C:\\Personal\\Projects\\fireBase-authenticator\\FireBaseAuthenticator\\FireBaseAuthenticator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nmh\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\nmh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\nmh\\.nuget\\packages\\newtonsoft.json\\12.0.1\\newtonsoft.json.12.0.1.nupkg.sha512",
+    "C:\\Users\\nmh\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
